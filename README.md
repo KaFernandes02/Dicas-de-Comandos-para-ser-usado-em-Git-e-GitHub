@@ -1,6 +1,6 @@
 # Revisão de Comando para Git e GitHub
 
-
+Alguns comandos para facilitar o uso do git e github para iniciantes. (Como eu)
 
 ## 🔍 Criação de repósitorios em Local
 - mkdir (Nome da Pasta): Cria uma nova pasta no computador
